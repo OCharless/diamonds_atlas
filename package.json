@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hyperlane-xyz/core": "^5.2.1",
+    "@openzeppelin/contracts": "^4.9.6"
+  }
+}
